@@ -21,6 +21,11 @@ nav{
     justify-content: space-between;
     padding: 20px 0;
 }
+#header {
+    background-color: #66ccff;
+    color: white;
+    text-align: center;
+}
 .logo{
     width: 160px;
 }
@@ -88,7 +93,7 @@ p{
         margin-right: auto;
 }
 
-#conpiracies {
+#conpiracies{
     background-color: #66ccff;
     color: white;
     text-align: center;
@@ -101,10 +106,20 @@ p{
         margin-right: auto;
         width: 50%;
 }
-
-
-.img-aliens{
+.img-illum{
     width: 400px;
+}
+.img-tupac{
+    width: 400px;
+}
+.img-alien{
+    width: 250px;
+}
+.img-Apollo{
+    width: 400px;
+}
+.img-aliens{
+    width: 250px;
 }
 .img-fetus{
     width: 400px;
