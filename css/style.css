@@ -94,7 +94,12 @@ h2{
         padding: 1%;
         margin: auto;
         text-align: center;
-}   
+} 
+h5{
+    padding: 1%;
+    margin: auto;
+    text-align: center;
+}  
 p{
         border: #000;
         padding: 1%;
