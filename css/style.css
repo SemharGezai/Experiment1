@@ -108,20 +108,37 @@ p{
 }
 .img-illum{
     width: 400px;
+    display: block;
+    margin: auto;
+}
+.img-jfk{
+    width: 400px;
+    display: block;
+    margin: auto;
 }
 .img-tupac{
     width: 400px;
+    display: block;
+    margin: auto;
 }
 .img-alien{
     width: 250px;
+    display: block;
+    margin: auto;
 }
 .img-Apollo{
     width: 400px;
+    display: block;
+    margin: auto;
 }
 .img-aliens{
     width: 250px;
+    display: block;
+    margin: auto;
 }
 .img-fetus{
     width: 400px;
+    display: block;
+    margin: auto;
 }
 /* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/others/oth-2/oth120.cur), auto !important;} /* End 
