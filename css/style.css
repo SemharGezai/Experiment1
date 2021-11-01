@@ -76,16 +76,6 @@ nav ul li a{
 }
 
     /* --------------page 2------------------ */
-
-#page #box{
-    background-image: url(https://cdn.theatlantic.com/thumbor/ulObzuaDRJcZyU8B9KTxBMaEKWM=/0x60:3000x1748/1600x900/media/img/mt/2020/05/conspiracies_feature_2/original.gif);
-    background-repeat: repeat;  
-    margin-left: 0 0;
-    margin-right: 0 0;
-    background-size: 100%;
-    background-color: #ADD2D8;
-    font-family: Arial, Helvetica, sans-serif;
-}
 h1{
         padding: 2%;
         margin: 0;
