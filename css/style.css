@@ -57,9 +57,23 @@ nav ul li a{
     display: inline-block;
     background: #3a3a3a;
     height: 15px;
+}
+.indicator{
+    margin-top: 150px;
+}
+.indicator span.active{
+    background: #bfbfbf;
+}
+    .cta{
+    position: absolute;
+    width: 25%;
+    min-width: 250px;
+    right: 8%;
+    bottom: 100px;
+}
 
     /* --------------page 2------------------ */
-}
+
 #page #box{
     background-image: url(https://cdn.theatlantic.com/thumbor/ulObzuaDRJcZyU8B9KTxBMaEKWM=/0x60:3000x1748/1600x900/media/img/mt/2020/05/conspiracies_feature_2/original.gif);
     background-repeat: repeat;  
